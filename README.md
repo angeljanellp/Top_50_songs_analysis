@@ -1,4 +1,4 @@
-# CAPSTONE_PROJECT: Top 50 songs of each country during Xmas
+# CAPSTONE_PROJECT: Top 50 songs of each country during Xmas 🎄
 My project is an analysis of the dataset by Leordardo Henrique on kaggle: https://www.kaggle.com/datasets/leonardopena/top-50-spotify-songs-by-each-country.
 It talks about the favorites songs that a lot of countries listen to.
 ## Description and analysis summary:
